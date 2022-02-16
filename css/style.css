@@ -169,7 +169,7 @@ nav a {
 /*section nav*/
 
 .left-side {
-    width: 70%;
+    width: 68%;
 }
 
 .sec-Nav {
@@ -362,6 +362,40 @@ nav a {
 
 .article {
     margin: 1% 0%;
+}
+
+
+/*load more btn*/
+
+.world-btn {
+    text-decoration: none;
+    font-family: cursive;
+    color: rgb(141, 141, 141);
+    position: relative;
+    z-index: 1;
+    padding: 0 25px;
+    width: auto;
+    height: 35px;
+    border: 1px solid;
+    border-color: #d7d7d7;
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 50px;
+    line-height: 32px;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    box-sizing: border-box;
+}
+
+.world-btn:hover {
+    color: white;
+    background-color: blue;
+}
+
+.mt-50 {
+    margin-top: 50px;
 }
 
 
