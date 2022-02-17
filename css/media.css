@@ -7,6 +7,9 @@
     .card-lol {
         width: 100%;
     }
+    .card-left-right {
+        margin-bottom: 1%;
+    }
 }
 
 
@@ -67,6 +70,9 @@
     .card-lol {
         width: 80%;
     }
+    .card-left-right {
+        margin-bottom: 1%;
+    }
     .nav-ul {
         padding-top: 2%;
         width: 100%;
@@ -110,6 +116,9 @@
 @media (min-width: 576px) and (max-width: 767.98px) {
     .card {
         width: 100%;
+        margin-bottom: 1%;
+    }
+    .card-left-right {
         margin-bottom: 1%;
     }
     .nav-ul {
@@ -160,6 +169,9 @@
     }
     .left-side {
         width: 100%;
+    }
+    .card-left-right {
+        margin-bottom: 1%;
     }
     .left-right {
         width: 100%;
