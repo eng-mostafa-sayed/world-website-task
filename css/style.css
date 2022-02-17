@@ -456,6 +456,10 @@ nav a {
     box-sizing: border-box;
 }
 
+.w-30 {
+    width: 30%;
+}
+
 #scrollUp {
     background-color: #232323;
     border-radius: 50%;

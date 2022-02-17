@@ -1,0 +1,189 @@
+/* more than 1000px screens */
+
+@media (min-width: 1000px) {
+    aside {
+        width: 28%;
+    }
+    .card-lol {
+        width: 100%;
+    }
+}
+
+
+/* Large devices (desktops, 992px and up) */
+
+@media (min-width: 992px) and (max-width: 999.9px) {
+    .card {
+        width: 48%;
+        margin-bottom: 1%;
+    }
+    .card-lol {
+        width: 80%;
+    }
+    .nav-ul {
+        width: 51%;
+    }
+    .left-side {
+        width: 100%;
+    }
+    .left-right {
+        width: 48%;
+    }
+    .element {
+        width: 30%;
+        padding: 1%;
+    }
+    .sec-Nav ul {
+        padding: 0.5% 0.25%;
+    }
+    .size50 {
+        width: 50%;
+    }
+    .right-side {
+        width: 75%;
+        height: fit-content;
+    }
+    .imgd-sec-two {
+        width: 48%;
+        margin-bottom: 2%;
+    }
+    aside {
+        width: 100%;
+    }
+    .w-30 {
+        width: 30%;
+        margin-bottom: 4%;
+    }
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .card {
+        width: 48%;
+        margin-bottom: 1%;
+    }
+    .card-lol {
+        width: 80%;
+    }
+    .nav-ul {
+        padding-top: 2%;
+        width: 100%;
+    }
+    .left-side {
+        width: 100%;
+    }
+    .left-right {
+        width: 48%;
+    }
+    .element {
+        width: 30%;
+        padding: 1%;
+    }
+    .sec-Nav ul {
+        padding: 0.5% 0.25%;
+    }
+    .size50 {
+        width: 50%;
+    }
+    .right-side {
+        width: 75%;
+        height: fit-content;
+    }
+    .imgd-sec-two {
+        width: 48%;
+        margin-bottom: 2%;
+    }
+    aside {
+        width: 100%;
+    }
+    .w-30 {
+        width: 100%;
+        margin-bottom: 4%;
+    }
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .card {
+        width: 100%;
+        margin-bottom: 1%;
+    }
+    .nav-ul {
+        padding-top: 2%;
+        width: 100%;
+    }
+    .left-side {
+        width: 100%;
+    }
+    .left-right {
+        width: 100%;
+    }
+    .element {
+        width: 100%;
+        padding: 2%;
+    }
+    .sec-Nav ul {
+        padding: 0.5% 0.25%;
+    }
+    .size50 {
+        width: 100%;
+    }
+    .right-side {
+        width: 99%;
+        height: fit-content;
+    }
+    .imgd-sec-two {
+        width: 100%;
+        margin-bottom: 2%;
+    }
+    .w-30 {
+        width: 100%;
+        margin-bottom: 4%;
+    }
+}
+
+
+/* Extra small devices (portrait phones, less than 576px) */
+
+@media (max-width: 575.98px) {
+    .card {
+        width: 100%;
+        margin-bottom: 1%;
+    }
+    .nav-ul {
+        padding-top: 2%;
+        width: 100%;
+    }
+    .left-side {
+        width: 100%;
+    }
+    .left-right {
+        width: 100%;
+    }
+    .element {
+        width: 100%;
+        padding: 2%;
+    }
+    .sec-Nav ul {
+        padding: 0.5% 0.25%;
+    }
+    .size50 {
+        width: 100%;
+    }
+    .right-side {
+        width: 99%;
+        height: fit-content;
+    }
+    .imgd-sec-two {
+        width: 100%;
+        margin-bottom: 2%;
+    }
+    .w-30 {
+        width: 100%;
+        margin-bottom: 4%;
+    }
+}
