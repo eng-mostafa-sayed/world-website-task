@@ -90,6 +90,12 @@ nav a {
     border-radius: 50%;
 }
 
+.theSecondNum {
+    border-right-color: #185acf;
+    border-bottom-color: #185acf;
+    border-top-color: #185acf;
+}
+
 .sticky {
     position: sticky;
     top: 0;
@@ -428,11 +434,14 @@ nav a {
     border: 0;
     background-color: transparent;
     box-sizing: border-box;
+    color: aliceblue;
 }
 
 .footer-form input:focus {
     border: 0;
     background-color: lightgray;
+    color: red;
+    font-size: 18px;
 }
 
 .footer-form button {
